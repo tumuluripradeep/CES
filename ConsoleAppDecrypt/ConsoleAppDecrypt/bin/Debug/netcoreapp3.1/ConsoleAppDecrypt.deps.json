@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleAppDecrypt/1.0.0": {
+        "dependencies": {
+          "Microsoft.Crm.Sdk.Proxy": "9.0.0.0",
+          "Microsoft.Xrm.Sdk": "9.0.0.0",
+          "Microsoft.Xrm.Sdk.Workflow": "9.0.0.0",
+          "Newtonsoft.Json": "11.0.0.0"
+        },
+        "runtime": {
+          "ConsoleAppDecrypt.dll": {}
+        }
+      },
+      "Microsoft.Crm.Sdk.Proxy/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Crm.Sdk.Proxy.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.0.2090"
+          }
+        }
+      },
+      "Microsoft.Xrm.Sdk/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Xrm.Sdk.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.9002.0"
+          }
+        }
+      },
+      "Microsoft.Xrm.Sdk.Workflow/9.0.0.0": {
+        "runtime": {
+          "Microsoft.Xrm.Sdk.Workflow.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.9002.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppDecrypt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Crm.Sdk.Proxy/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xrm.Sdk/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xrm.Sdk.Workflow/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
