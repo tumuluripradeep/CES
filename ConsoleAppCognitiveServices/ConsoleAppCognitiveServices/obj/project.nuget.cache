@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fnEFnMIt+vuOLp4pJo+8Po2+M7dR5PCy5iepM2XJstcNdmFJagkJ95z7ueMUPyEHFqcNNne3d6qCgIrQ3JrUPA==",
+  "dgSpecHash": "2zXq2THb/mHMHYygteZoOG4yIFlfQQFK9KUamsmg3Bpp/8WV4zB30LVxiYMjB1xzNJHU9u2j6fpcCXnluCVlhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vtumuluri\\Desktop\\Pradeep-Test Applications\\Console Apps\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices.csproj",
+  "projectFilePath": "C:\\Users\\vtumuluri\\Source\\Repos\\tumuluripradeep\\CES\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vtumuluri\\.nuget\\packages\\azure.ai.textanalytics\\5.1.1\\azure.ai.textanalytics.5.1.1.nupkg.sha512",
     "C:\\Users\\vtumuluri\\.nuget\\packages\\azure.core\\1.16.0\\azure.core.1.16.0.nupkg.sha512",

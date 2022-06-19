@@ -1312,11 +1312,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vtumuluri\\Desktop\\Pradeep-Test Applications\\Console Apps\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices.csproj",
+      "projectUniqueName": "C:\\Users\\vtumuluri\\Source\\Repos\\tumuluripradeep\\CES\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices.csproj",
       "projectName": "ConsoleAppCognitiveServices",
-      "projectPath": "C:\\Users\\vtumuluri\\Desktop\\Pradeep-Test Applications\\Console Apps\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices.csproj",
+      "projectPath": "C:\\Users\\vtumuluri\\Source\\Repos\\tumuluripradeep\\CES\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices.csproj",
       "packagesPath": "C:\\Users\\vtumuluri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vtumuluri\\Desktop\\Pradeep-Test Applications\\Console Apps\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices\\obj\\",
+      "outputPath": "C:\\Users\\vtumuluri\\Source\\Repos\\tumuluripradeep\\CES\\ConsoleAppCognitiveServices\\ConsoleAppCognitiveServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vtumuluri\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -16,7 +16,7 @@ namespace ConsoleAppCognitiveServices
 
         public static async Task<string> SpeechToTextExample()
         {
-            var configuration = SpeechConfig.FromSubscription("1785be60d2764ac1a06591d8af083e72", "eastus");
+            var configuration = SpeechConfig.FromSubscription(${{secrets.AZUREAPIKEY}}, "eastus");
             var speechText = string.Empty;
             using (var recog = new SpeechRecognizer(configuration))
             {

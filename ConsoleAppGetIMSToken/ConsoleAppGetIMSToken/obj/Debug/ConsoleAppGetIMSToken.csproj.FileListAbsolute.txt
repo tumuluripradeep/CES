@@ -1,0 +1,10 @@
+C:\Users\vtumuluri\source\repos\tumuluripradeep\CES\ConsoleAppGetIMSToken\ConsoleAppGetIMSToken\bin\Debug\ConsoleAppGetIMSToken.exe.config
+C:\Users\vtumuluri\source\repos\tumuluripradeep\CES\ConsoleAppGetIMSToken\ConsoleAppGetIMSToken\bin\Debug\ConsoleAppGetIMSToken.exe
+C:\Users\vtumuluri\source\repos\tumuluripradeep\CES\ConsoleAppGetIMSToken\ConsoleAppGetIMSToken\bin\Debug\ConsoleAppGetIMSToken.pdb
+C:\Users\vtumuluri\source\repos\tumuluripradeep\CES\ConsoleAppGetIMSToken\ConsoleAppGetIMSToken\obj\Debug\ConsoleAppGetIMSToken.csproj.AssemblyReference.cache
+C:\Users\vtumuluri\source\repos\tumuluripradeep\CES\ConsoleAppGetIMSToken\ConsoleAppGetIMSToken\obj\Debug\ConsoleAppGetIMSToken.csproj.CoreCompileInputs.cache
+C:\Users\vtumuluri\source\repos\tumuluripradeep\CES\ConsoleAppGetIMSToken\ConsoleAppGetIMSToken\obj\Debug\ConsoleAppGetIMSToken.exe
+C:\Users\vtumuluri\source\repos\tumuluripradeep\CES\ConsoleAppGetIMSToken\ConsoleAppGetIMSToken\obj\Debug\ConsoleAppGetIMSToken.pdb
+C:\Users\vtumuluri\source\repos\tumuluripradeep\CES\ConsoleAppGetIMSToken\ConsoleAppGetIMSToken\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vtumuluri\source\repos\tumuluripradeep\CES\ConsoleAppGetIMSToken\ConsoleAppGetIMSToken\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vtumuluri\source\repos\tumuluripradeep\CES\ConsoleAppGetIMSToken\ConsoleAppGetIMSToken\obj\Debug\ConsoleAppGetIMSToken.csproj.CopyComplete
